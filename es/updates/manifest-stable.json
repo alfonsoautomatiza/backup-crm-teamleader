@@ -1,0 +1,18 @@
+{
+  "project": "backuptl",
+  "channel": "stable",
+  "latest": "0.1.0",
+  "key_id": "global-2026-01",
+  "generated_at": "2026-08-05T13:16:52.105282+00:00",
+  "releases": [
+    {
+      "version": "0.1.0",
+      "type": "full",
+      "target": "win-x64",
+      "url": "https://github.com/wertyMSD/backup_teamleader/releases/download/v0.1.0/dist.zip",
+      "sha256": "97256e632c1d7654f0552db8b34538b56058b6c9942d8e99abfee0746f42cfe8",
+      "size": 72562824
+    }
+  ],
+  "signature": "s2IV0tgQOJ//1/ALGIHlXphYT1xpZGjCBGtihJtmVhJQTnrztuP4o/0EPR9KVq2mkj7giVLfhTP0+Ib00FwTCg=="
+}
