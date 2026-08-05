@@ -1,13 +1,13 @@
 Page,Meta description
-https://wertymsd.github.io/manual-backup-crm-teamleader/,"Guía de Backup TL para trabajar con Teamleader y, opcionalmente, recibir información de llamadas desde App Call Remoto."
-https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/App-Call-remoto/,Uso de App Call Remoto como complemento opcional para que Backup TL trabaje con llamadas entrantes y salientes desde Android.
-https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/api-teamleader/,Pasos para preparar las credenciales de Teamleader que Backup TL necesita para consultar y relacionar fichas del CRM.
-https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/centralita-crm-ia-teamleader/,"Guía inicial para entender qué hace Backup TL, cómo ayuda a trabajar con llamadas y fichas de Teamleader, y por dónde empezar."
-https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/creacion-nuevo-registros-teamleader/,Cómo usar Backup TL cuando un teléfono no está localizado en Teamleader y necesita crear o completar una ficha.
+https://wertymsd.github.io/manual-backup-crm-teamleader/,Documentación principal de Backup TL para ejecutar y revisar copias de seguridad de Teamleader.
+https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/App-Call-remoto/,Referencia breve al complemento externo que puede conectarse con Backup TL sin formar parte de la guía principal de uso.
+https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/api-teamleader/,Nota auxiliar sobre las credenciales que Backup TL puede solicitar al iniciar la copia de seguridad.
+https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/centralita-crm-ia-teamleader/,"Guía única de uso de Backup TL para ejecutar copias de seguridad, revisar resultados y usar la herramienta por interfaz gráfica o consola."
+https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/creacion-nuevo-registros-teamleader/,Página conservada como compatibilidad de enlaces; el uso principal de Backup TL está en la guía única.
 https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/indice_castellano/,"Última actualización: 2026-08-05
-Propósito de esta zona: guiar el uso de Backup TL con Teamleader, desde la descarga hasta la configuración, consulta de fichas y apoyo a llamadas."
-https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/link-descarga-software-centralita-teamleader/,Enlace de descarga y pasos iniciales para preparar Backup TL antes de conectarlo con Teamleader.
-https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/pantalla-configuracion-centralita-teamleader/,Parámetros principales que debe revisar en Backup TL antes de consultar fichas de Teamleader o enlazar llamadas desde Android.
+Guía principal: Realizar una copia de seguridad de Teamleader con Backup TL."
+https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/link-descarga-software-centralita-teamleader/,Enlace de descarga de Backup TL y referencia a la guía única de uso.
+https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/pantalla-configuracion-centralita-teamleader/,Resumen auxiliar de campos de Backup TL; la guía principal está en la página única de uso.
 https://wertymsd.github.io/manual-backup-crm-teamleader/img/indice_img/,"Generado automáticamente el 2026-04-04
 Propósito de esta zona:"
 https://wertymsd.github.io/manual-backup-crm-teamleader/javascripts.old/indice_javascripts.old/,"Generado automáticamente el 2026-04-04
