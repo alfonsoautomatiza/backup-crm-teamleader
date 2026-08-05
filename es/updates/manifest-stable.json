@@ -3,16 +3,16 @@
   "channel": "stable",
   "latest": "0.1.0",
   "key_id": "global-2026-01",
-  "generated_at": "2026-08-05T16:49:09.840709+00:00",
+  "generated_at": "2026-08-05T16:59:53.163288+00:00",
   "releases": [
     {
       "version": "0.1.0",
       "type": "full",
       "target": "win-x64",
-      "url": "https://raw.githubusercontent.com/wertyMSD/manual-backup-crm-teamleader/main/dist.zip",
+      "url": "https://github.com/wertyMSD/manual-backup-crm-teamleader/releases/download/v0.1.0/dist.zip",
       "sha256": "97256e632c1d7654f0552db8b34538b56058b6c9942d8e99abfee0746f42cfe8",
       "size": 72562824
     }
   ],
-  "signature": "YQ2k2TCoPBzBvQgPnT4ZZhk+nOJFEXt4G8A7cJlElxfg48hzhhFPC5l1AY9LXgeWPMOUjZ0crMGIokw/2zy+Cw=="
+  "signature": "kLxNUeJQGSnc3BM89bekKZv2VT+DgXzA4GYLaiE8uOKRROwU+iffGG6wf1LfaZsyDdZ0gpGlY2La7Q+eaEGADg=="
 }
