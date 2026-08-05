@@ -6,17 +6,17 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Referencia breve al complemento externo que puede conectarse con Backup TL sin formar parte de la guía principal de uso.">
+        <meta name="description" content="Checklist de capturas planificadas para completar la documentación de Backup TL con nombres de archivo, ubicación exacta y criterios de privacidad.">
       
       
       
-        <link rel="canonical" href="https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/App-Call-remoto/">
+        <link rel="canonical" href="https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/capturas-necesarias-backup-tl/">
       
       
-        <link rel="prev" href="../pantalla-configuracion-centralita-teamleader/">
+        <link rel="prev" href="../centralita-crm-ia-teamleader/">
       
       
-        <link rel="next" href="../creacion-nuevo-registros-teamleader/">
+        <link rel="next" href="../api-teamleader/">
       
       
         
@@ -27,7 +27,7 @@
     
     
       
-        <title>Complemento externo conectado a Backup TL - Backup Teamleader</title>
+        <title>Capturas necesarias para Backup TL - Backup Teamleader</title>
       
     
     
@@ -78,7 +78,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#siguiente-paso" class="md-skip">
+        <a href="#reglas-de-captura" class="md-skip">
           Saltar a contenido
         </a>
       
@@ -112,7 +112,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Complemento externo conectado a Backup TL
+              Capturas necesarias para Backup TL
             
           </span>
         </div>
@@ -620,10 +620,19 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../capturas-necesarias-backup-tl/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -646,6 +655,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -725,19 +735,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../App-Call-remoto/" class="md-nav__link">
         
   
   
@@ -760,7 +761,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -1013,11 +1013,185 @@
 
 
 
-<h0 id="complemento-externo-conectado-a-backup-tl">Complemento externo conectado a Backup TL</h0>
-<p>Esta página se conserva como referencia auxiliar. La guía principal de uso de Backup TL está en <a href="../centralita-crm-ia-teamleader/">Realizar una copia de seguridad de Teamleader con Backup TL</a>.</p>
-<p>Backup TL puede conectarse con App Call Remoto cuando el entorno de trabajo lo necesite. App Call Remoto es un producto externo y no forma parte del uso principal documentado aquí, que es ejecutar y revisar copias de seguridad de Teamleader.</p>
-<h1 id="siguiente-paso">Siguiente paso</h1>
-<p>Si su objetivo es hacer una copia de seguridad, continúe en la <a href="../centralita-crm-ia-teamleader/">guía única de uso</a>.</p>
+<h0 id="capturas-necesarias-para-backup-tl">Capturas necesarias para Backup TL</h0>
+<p>Este listado define qué imágenes faltan para completar la documentación visual de Backup TL. Guarde todas las capturas en <code>docs/img/</code> y use exactamente el nombre de archivo indicado.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>No capture credenciales reales, claves, tokens, nombres de clientes, teléfonos, correos, rutas privadas ni datos personales. Si un dato debe aparecer para explicar la pantalla, use datos de prueba o aplique ocultación antes de guardar la imagen.</p>
+</div>
+<h1 id="reglas-de-captura">Reglas de captura</h1>
+<table>
+<thead>
+<tr>
+<th>Regla</th>
+<th>Criterio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Formato</td>
+<td>PNG.</td>
+</tr>
+<tr>
+<td>Ubicación</td>
+<td><code>docs/img/</code>.</td>
+</tr>
+<tr>
+<td>Nombre</td>
+<td>Exactamente el valor de la columna <strong>Nombre de archivo esperado</strong>.</td>
+</tr>
+<tr>
+<td>Resolución</td>
+<td>Preferentemente ventana completa de la herramienta, sin recortar controles importantes.</td>
+</tr>
+<tr>
+<td>Privacidad</td>
+<td>Ocultar valores sensibles antes de guardar o publicar.</td>
+</tr>
+<tr>
+<td>Estado</td>
+<td>Mostrar una configuración comprensible, no pantallas a medio completar salvo que la captura documente un error.</td>
+</tr>
+</tbody>
+</table>
+<h1 id="checklist-principal">Checklist principal</h1>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Qué capturar</th>
+<th>Ubicación exacta donde guardar</th>
+<th>Nombre de archivo esperado</th>
+<th>Página donde se usa</th>
+<th>Qué debe verse</th>
+<th>Qué no debe verse</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CAP-01</td>
+<td>Página de Microsoft Store de Backup Teamleader o pantalla de instalación ya disponible.</td>
+<td><code>docs/img/</code></td>
+<td><code>backup-tl-instalacion-store.png</code></td>
+<td><code>docs/castellano/centralita-crm-ia-teamleader.md</code> y <code>docs/castellano/link-descarga-software-centralita-teamleader.md</code></td>
+<td>Nombre de la aplicación, botón de instalación/abrir o estado instalado.</td>
+<td>Cuenta Microsoft, correo, sesión personal o notificaciones privadas.</td>
+</tr>
+<tr>
+<td>CAP-02</td>
+<td>Pantalla principal de Backup TL después de abrir la herramienta.</td>
+<td><code>docs/img/</code></td>
+<td><code>backup-tl-pantalla-principal.png</code></td>
+<td><code>docs/castellano/centralita-crm-ia-teamleader.md</code></td>
+<td>Ventana principal, campos de configuración y botón de ejecución.</td>
+<td>Datos reales de empresa, rutas privadas o claves.</td>
+</tr>
+<tr>
+<td>CAP-03</td>
+<td>Pantalla donde la herramienta solicita credenciales.</td>
+<td><code>docs/img/</code></td>
+<td><code>backup-tl-credenciales-ocultas.png</code></td>
+<td><code>docs/castellano/centralita-crm-ia-teamleader.md</code> y <code>docs/castellano/api-teamleader.md</code></td>
+<td>Etiquetas de campos, botones de continuar/aceptar y valores ocultos o de prueba.</td>
+<td>Credenciales reales, tokens, contraseñas, identificadores de cliente o secretos.</td>
+</tr>
+<tr>
+<td>CAP-04</td>
+<td>Selector o campo de carpeta destino.</td>
+<td><code>docs/img/</code></td>
+<td><code>backup-tl-carpeta-destino.png</code></td>
+<td><code>docs/castellano/centralita-crm-ia-teamleader.md</code> y <code>docs/castellano/pantalla-configuracion-centralita-teamleader.md</code></td>
+<td>Campo <strong>Carpeta destino</strong>, botón para elegir carpeta y ruta de ejemplo no sensible.</td>
+<td>Ruta real con nombre de usuario, cliente o estructura interna privada.</td>
+</tr>
+<tr>
+<td>CAP-05</td>
+<td>Configuración de <strong>Retroceder días</strong> y <strong>Backup rehacer completo</strong>.</td>
+<td><code>docs/img/</code></td>
+<td><code>backup-tl-retroceder-dias-backup-completo.png</code></td>
+<td><code>docs/castellano/centralita-crm-ia-teamleader.md</code> y <code>docs/castellano/pantalla-configuracion-centralita-teamleader.md</code></td>
+<td>Campo de días y casilla/opción de copia completa en contexto.</td>
+<td>Otros datos sensibles que aparezcan alrededor.</td>
+</tr>
+<tr>
+<td>CAP-06</td>
+<td>Opción de descarga de adjuntos y campo/diálogo de clave.</td>
+<td><code>docs/img/</code></td>
+<td><code>backup-tl-adjuntos-clave.png</code></td>
+<td><code>docs/castellano/centralita-crm-ia-teamleader.md</code></td>
+<td>Control de adjuntos, campo de clave oculto o con valor ficticio, estado listo para ejecutar.</td>
+<td>Clave real de adjuntos o nombres de ficheros privados.</td>
+</tr>
+<tr>
+<td>CAP-07</td>
+<td>Configuración de exportación a Excel y solicitud de clave si aparece.</td>
+<td><code>docs/img/</code></td>
+<td><code>backup-tl-exportacion-excel-clave.png</code></td>
+<td><code>docs/castellano/centralita-crm-ia-teamleader.md</code></td>
+<td>Carpeta de exportación, acción de seleccionar carpeta y clave ocultada o ficticia.</td>
+<td>Clave real, rutas personales o contenido de Excel con datos reales.</td>
+</tr>
+<tr>
+<td>CAP-08</td>
+<td>Ejecución de un backup completo o pantalla donde se ve el proceso iniciado.</td>
+<td><code>docs/img/</code></td>
+<td><code>backup-tl-ejecucion-backup-completo.png</code></td>
+<td><code>docs/castellano/centralita-crm-ia-teamleader.md</code></td>
+<td>Botón de ejecución, estado en progreso y opción completa activada si corresponde.</td>
+<td>Datos de clientes, mensajes con tokens o rutas privadas.</td>
+</tr>
+<tr>
+<td>CAP-09</td>
+<td>Consola, panel de estado o salida técnica durante la ejecución.</td>
+<td><code>docs/img/</code></td>
+<td><code>backup-tl-consola-estado.png</code></td>
+<td><code>docs/castellano/centralita-crm-ia-teamleader.md</code></td>
+<td>Mensajes de avance, inicio, finalización o cancelación controlada.</td>
+<td>Tokens, claves, identificadores personales, rutas internas sensibles.</td>
+</tr>
+<tr>
+<td>CAP-10</td>
+<td>Resultado posterior: carpeta destino con archivos generados o resumen de archivos en la herramienta.</td>
+<td><code>docs/img/</code></td>
+<td><code>backup-tl-logs-resultados.png</code></td>
+<td><code>docs/castellano/centralita-crm-ia-teamleader.md</code></td>
+<td>Archivos generados, fechas de ejecución, resumen o log sin datos sensibles.</td>
+<td>Nombres reales de clientes, datos personales, contenido completo de archivos exportados.</td>
+</tr>
+<tr>
+<td>CAP-11</td>
+<td>Error común o aviso recuperable, si aparece durante una prueba controlada.</td>
+<td><code>docs/img/</code></td>
+<td><code>backup-tl-error-comun.png</code></td>
+<td><code>docs/castellano/centralita-crm-ia-teamleader.md</code></td>
+<td>Mensaje de error completo, pantalla de contexto y acción disponible para corregir.</td>
+<td>Mensajes con secretos, rutas privadas, datos personales o información no apta para publicación.</td>
+</tr>
+<tr>
+<td>CAP-12</td>
+<td>Alternativa manual en GitHub Releases, si se quiere documentar la descarga no recomendada.</td>
+<td><code>docs/img/</code></td>
+<td><code>backup-tl-github-releases.png</code></td>
+<td><code>docs/castellano/link-descarga-software-centralita-teamleader.md</code></td>
+<td>Página de Releases, versión publicada y activos descargables.</td>
+<td>Sesión de GitHub, tokens, borradores privados o datos de cuenta.</td>
+</tr>
+</tbody>
+</table>
+<h1 id="orden-recomendado-de-produccion">Orden recomendado de producción</h1>
+<ol>
+<li>Capture primero instalación, pantalla principal y carpeta destino.</li>
+<li>Capture credenciales, adjuntos y Excel con datos ficticios u ocultos.</li>
+<li>Ejecute una copia de prueba en carpeta temporal/controlada.</li>
+<li>Capture estado, resultados y un error controlado solo si aparece de forma segura.</li>
+<li>Revise cada imagen antes de subirla al repositorio.</li>
+</ol>
+<h1 id="referencias-ya-preparadas">Referencias ya preparadas</h1>
+<p>La guía principal ya contiene referencias a estas imágenes con rutas <code>../img/&lt;nombre&gt;.png</code>. Cuando coloque los archivos en <code>docs/img/</code>, MkDocs los mostrará automáticamente.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Si una captura todavía no existe, no cambie el nombre en la documentación. Cree el archivo con el nombre planificado para mantener estable la referencia.</p>
+</div>
 
 
 
@@ -1052,7 +1226,7 @@
       <nav class="md-footer__inner md-grid" aria-label="Pie" >
         
           
-          <a href="../pantalla-configuracion-centralita-teamleader/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Configuración rápida">
+          <a href="../centralita-crm-ia-teamleader/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Guía única de uso">
             <div class="md-footer__button md-icon">
               
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
@@ -1062,20 +1236,20 @@
                 Anterior
               </span>
               <div class="md-ellipsis">
-                Configuración rápida
+                Guía única de uso
               </div>
             </div>
           </a>
         
         
           
-          <a href="../creacion-nuevo-registros-teamleader/" class="md-footer__link md-footer__link--next" aria-label="Siguiente: Compatibilidad de enlaces">
+          <a href="../api-teamleader/" class="md-footer__link md-footer__link--next" aria-label="Siguiente: Credenciales">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Siguiente
               </span>
               <div class="md-ellipsis">
-                Compatibilidad de enlaces
+                Credenciales
               </div>
             </div>
             <div class="md-footer__button md-icon">
