@@ -6,7 +6,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Pantalla de parametrización de la aplicación con la siguientes opciones:">
+        <meta name="description" content="Parámetros principales que debe revisar en Backup TL antes de consultar fichas de Teamleader o enlazar llamadas desde Android.">
       
       
       
@@ -27,7 +27,7 @@
     
     
       
-        <title>Pantalla configuración Centralita Teamleader - Backup Teamleader</title>
+        <title>Configurar Backup TL antes de usarlo - Backup Teamleader</title>
       
     
     
@@ -77,6 +77,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#camino-rapido" class="md-skip">
+          Saltar a contenido
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -107,7 +112,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Pantalla configuración Centralita Teamleader
+              Configurar Backup TL antes de usarlo
             
           </span>
         </div>
@@ -351,7 +356,7 @@
   <span class="md-ellipsis">
     
   
-    Automatice su CRM Teamleader
+    Backup TL para Teamleader
   
 
     
@@ -641,6 +646,8 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -685,7 +692,7 @@
   <span class="md-ellipsis">
     
   
-    App Call Remoto Windows Android
+    Enlace opcional con App Call Remoto
   
 
     
@@ -763,7 +770,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../indice_docs/" class="md-nav__link">
+      <a href="../../indice_docs.md" class="md-nav__link">
         
   
   
@@ -900,6 +907,8 @@
   
   
   
+    
+  
   
 </nav>
                   </div>
@@ -916,17 +925,58 @@
 
 
 
-  <h1>Configuración</h1>
-
-<p>Pantalla de parametrización de la aplicación con la siguientes opciones:</p>
-<p><img alt="" src="../../img/pantalla_configuracion_centralita%20teamleader.png" /></p>
-<ul>
-<li>Seleccionar Idiomas aplicación <img alt="" src="../img/bandera_en.png" /><img alt="" src="../../img/bandera_es.png" /><img alt="" src="../../img/bandera_fr.png" /></li>
-<li>Claves API <a href="../api-teamleader/">Api-Teamleader</a></li>
-<li>Tiempo de cierre automático pantalla entrada información nuevos registros</li>
-<li>Uso enlace móvil Android  <a href="../App-Call-remoto/">App-Call-remoto</a></li>
-<li>Puede enlazar los campos libre creado en teamleader con los campos que IA localice de la empresa que crea.</li>
+<h0 id="configurar-backup-tl-antes-de-usarlo">Configurar Backup TL antes de usarlo</h0>
+<p>La configuración de Backup TL reúne los datos que permiten conectar con Teamleader y adaptar el uso diario de la herramienta. Revísela antes de hacer pruebas con llamadas, búsquedas de teléfonos o creación de nuevas fichas.</p>
+<h1 id="camino-rapido">Camino rápido</h1>
+<ol>
+<li>Abra la pantalla de configuración de Backup TL.</li>
+<li>Seleccione el idioma de la aplicación.</li>
+<li>Introduzca las credenciales obtenidas desde <a href="../api-teamleader/">API Teamleader</a>.</li>
+<li>Ajuste el tiempo de cierre automático para pantallas de alta o consulta.</li>
+<li>Active el enlace con Android solo si va a usar <a href="../App-Call-remoto/">App Call Remoto</a>.</li>
+</ol>
+<h1 id="detalles">Detalles</h1>
+<table>
+<thead>
+<tr>
+<th>Parámetro</th>
+<th>Para qué sirve</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Idioma</td>
+<td>Define el idioma visible de la aplicación.</td>
+</tr>
+<tr>
+<td>Claves API</td>
+<td>Permiten conectar Backup TL con Teamleader.</td>
+</tr>
+<tr>
+<td>Cierre automático</td>
+<td>Evita que una pantalla de alta quede abierta por falta de actividad.</td>
+</tr>
+<tr>
+<td>Enlace móvil Android</td>
+<td>Permite trabajar con llamadas entrantes o salientes cuando App Call Remoto está instalado y conectado.</td>
+</tr>
+<tr>
+<td>Campos libres</td>
+<td>Puede relacionar campos libres de Teamleader con datos localizados durante el alta de una empresa, si su configuración lo contempla.</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="Pantalla de configuración de Backup TL" src="../../img/pantalla_configuracion_centralita%20teamleader.png" /></p>
+<h1 id="checklist">Checklist</h1>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Ha seleccionado el idioma correcto.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Ha pegado el <code>Client ID</code> y el <code>Client secret</code> de Teamleader.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Ha definido un tiempo de cierre automático adecuado para su flujo de trabajo.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Ha activado Android únicamente si lo va a usar.</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> Ha guardado la configuración antes de hacer la primera prueba.</li>
 </ul>
+<h1 id="siguiente-paso">Siguiente paso</h1>
+<p>Vuelva a la <a href="../centralita-crm-ia-teamleader/">guía de uso</a> y realice una primera consulta con un número de teléfono conocido.</p>
 
 
 
@@ -978,13 +1028,13 @@
         
         
           
-          <a href="../App-Call-remoto/" class="md-footer__link md-footer__link--next" aria-label="Siguiente: App Call Remoto Windows Android">
+          <a href="../App-Call-remoto/" class="md-footer__link md-footer__link--next" aria-label="Siguiente: Enlace opcional con App Call Remoto">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Siguiente
               </span>
               <div class="md-ellipsis">
-                App Call Remoto Windows Android
+                Enlace opcional con App Call Remoto
               </div>
             </div>
             <div class="md-footer__button md-icon">
