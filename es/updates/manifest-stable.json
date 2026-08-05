@@ -3,7 +3,7 @@
   "channel": "stable",
   "latest": "0.1.0",
   "key_id": "global-2026-01",
-  "generated_at": "2026-08-05T17:20:35.124165+00:00",
+  "generated_at": "2026-08-05T17:24:25.654111+00:00",
   "releases": [
     {
       "version": "0.1.0",
@@ -14,5 +14,5 @@
       "size": 79836151
     }
   ],
-  "signature": "ldb0kDsSf0J+PhdPVeqoCf5+llly7F8zPQ3Q23jZDjyExINyWEEGt9HgLfxXs96WkMdifiHQQgd/8bbMoSuGBw=="
+  "signature": "N+jgpDWddZLGEL2rA+uxaivCwvqhuCaxF366kR5RKXOe9l24okZKb+brHVmN3dNfPte4OZ5Hpz5O3Q7De31WDQ=="
 }
