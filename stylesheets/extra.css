@@ -1,0 +1,55 @@
+:root {
+  --docs-reading-width: 72ch;
+}
+
+.md-grid {
+  max-width: 78rem;
+}
+
+.md-content__inner {
+  max-width: var(--docs-reading-width);
+}
+
+.md-typeset h2 {
+  margin-top: 2.4em;
+}
+
+.md-typeset h3 {
+  margin-top: 1.8em;
+}
+
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+}
+
+.md-typeset :is(a, button, input, summary):focus-visible {
+  outline: 3px solid var(--md-accent-fg-color);
+  outline-offset: 3px;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 1px;
+  box-shadow: none;
+}
+
+@media screen and (max-width: 44.984375em) {
+  .md-typeset table:not([class]) {
+    display: block;
+    overflow-x: auto;
+  }
+
+  .md-content__inner {
+    max-width: 100%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}

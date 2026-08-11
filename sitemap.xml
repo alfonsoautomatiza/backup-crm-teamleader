@@ -1,47 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
     <url>
          <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/</loc>
-         <lastmod>2026-08-05</lastmod>
+         <lastmod>2026-08-11</lastmod>
     </url>
-    <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/App-Call-remoto/</loc>
-         <lastmod>2026-08-05</lastmod>
-    </url>
+    
+    
     <url>
          <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/api-teamleader/</loc>
-         <lastmod>2026-08-05</lastmod>
+         <lastmod>2026-08-11</lastmod>
     </url>
-    <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/capturas-necesarias-backup-tl/</loc>
-         <lastmod>2026-08-05</lastmod>
-    </url>
+    
+    
     <url>
          <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/centralita-crm-ia-teamleader/</loc>
-         <lastmod>2026-08-05</lastmod>
+         <lastmod>2026-08-11</lastmod>
     </url>
-    <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/creacion-nuevo-registros-teamleader/</loc>
-         <lastmod>2026-08-05</lastmod>
-    </url>
-    <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/indice_castellano/</loc>
-         <lastmod>2026-08-05</lastmod>
-    </url>
+    
+    
+    
     <url>
          <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/link-descarga-software-centralita-teamleader/</loc>
-         <lastmod>2026-08-05</lastmod>
+         <lastmod>2026-08-11</lastmod>
     </url>
+    
     <url>
          <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/pantalla-configuracion-centralita-teamleader/</loc>
-         <lastmod>2026-08-05</lastmod>
+         <lastmod>2026-08-11</lastmod>
     </url>
+    
     <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/img/indice_img/</loc>
-         <lastmod>2026-08-05</lastmod>
+         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/solucion-problemas/</loc>
+         <lastmod>2026-08-11</lastmod>
     </url>
+    
     <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/javascripts.old/indice_javascripts.old/</loc>
-         <lastmod>2026-08-05</lastmod>
+         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/uso-consola/</loc>
+         <lastmod>2026-08-11</lastmod>
     </url>
 </urlset>

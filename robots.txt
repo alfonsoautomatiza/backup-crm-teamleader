@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wertymsd.github.io/manual-backup-crm-teamleader/sitemap.xml
