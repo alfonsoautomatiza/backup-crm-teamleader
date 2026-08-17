@@ -91,33 +91,50 @@
   <meta name="twitter:title" content="Wijzigingenoverzicht Backup Teamleader">
   <meta name="twitter:description" content="Versiegeschiedenis van gepubliceerde Backup Teamleader-releases met verbeteringen en correcties.">
   <style>
-    .issue-button {
+    .s50-fab {
       position: fixed;
-      bottom: 1.5rem;
-      right: 1.5rem;
+      bottom: 2rem;
+      right: 2rem;
       z-index: 1000;
-      background: var(--md-primary-fg-color);
-      color: var(--md-primary-bg-color);
-      padding: 0.6rem 1.2rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.25rem;
       border-radius: 2rem;
+      background-color: #1976d2;
+      color: #fff !important;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+      transition: background-color 0.2s, transform 0.2s, box-shadow 0.2s;
       text-decoration: none;
       font-size: 0.85rem;
       font-weight: 500;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.25);
-      transition: transform 0.2s, box-shadow 0.2s;
-      display: flex;
-      align-items: center;
-      gap: 0.4rem;
     }
-    .issue-button:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.35);
-      color: var(--md-primary-bg-color);
+    .s50-fab:hover {
+      background-color: #d32f2f;
+      color: #fff !important;
+      transform: scale(1.05);
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
     }
-    .issue-button svg {
-      width: 16px;
-      height: 16px;
-      fill: currentColor;
+    .s50-fab:active {
+      transform: scale(0.95);
+    }
+    .s50-fab svg {
+      fill: #fff !important;
+    }
+    .s50-fab__text {
+      white-space: nowrap;
+      color: #fff !important;
+    }
+    @media (max-width: 44.984375em) {
+      .s50-fab {
+        bottom: 1.25rem;
+        right: 1.25rem;
+        padding: 0.6rem 1rem;
+        font-size: 0.8rem;
+      }
+      .s50-fab__text {
+        display: none;
+      }
     }
   </style>
 
@@ -827,9 +844,15 @@
 
 
                 
-  <a href="https://github.com/alfonsoautomatiza/backup-crm-teamleader/issues/new" target="_blank" rel="noopener" class="issue-button">
-    <svg viewBox="0 0 16 16"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm9.78-2.22a.75.75 0 0 1 .75.75v2.25h2.25a.75.75 0 0 1 0 1.5H10.5v2.25a.75.75 0 0 1-1.5 0V10.5H6.75a.75.75 0 0 1 0-1.5h2.25V6.5a.75.75 0 0 1 .75-.75Z"/></svg>
-    Reportar una incidencia
+  <a href="https://github.com/alfonsoautomatiza/backup-crm-teamleader/issues/new/choose"
+     class="s50-fab"
+     target="_blank"
+     rel="noopener"
+     title="Enviar incidencia">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+      <path fill="currentColor" d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"/>
+    </svg>
+    <span class="s50-fab__text">Enviar incidencia</span>
   </a>
 
               </article>

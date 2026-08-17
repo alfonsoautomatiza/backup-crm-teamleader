@@ -87,33 +87,50 @@
   <meta name="twitter:title" content="Manual de Backup Teamleader">
   <meta name="twitter:description" content="Guía en español para instalar Backup Teamleader, crear copias de seguridad del CRM y comprobar los archivos generados.">
   <style>
-    .issue-button {
+    .s50-fab {
       position: fixed;
-      bottom: 1.5rem;
-      right: 1.5rem;
+      bottom: 2rem;
+      right: 2rem;
       z-index: 1000;
-      background: var(--md-primary-fg-color);
-      color: var(--md-primary-bg-color);
-      padding: 0.6rem 1.2rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.75rem 1.25rem;
       border-radius: 2rem;
+      background-color: #1976d2;
+      color: #fff !important;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+      transition: background-color 0.2s, transform 0.2s, box-shadow 0.2s;
       text-decoration: none;
       font-size: 0.85rem;
       font-weight: 500;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.25);
-      transition: transform 0.2s, box-shadow 0.2s;
-      display: flex;
-      align-items: center;
-      gap: 0.4rem;
     }
-    .issue-button:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.35);
-      color: var(--md-primary-bg-color);
+    .s50-fab:hover {
+      background-color: #d32f2f;
+      color: #fff !important;
+      transform: scale(1.05);
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35);
     }
-    .issue-button svg {
-      width: 16px;
-      height: 16px;
-      fill: currentColor;
+    .s50-fab:active {
+      transform: scale(0.95);
+    }
+    .s50-fab svg {
+      fill: #fff !important;
+    }
+    .s50-fab__text {
+      white-space: nowrap;
+      color: #fff !important;
+    }
+    @media (max-width: 44.984375em) {
+      .s50-fab {
+        bottom: 1.25rem;
+        right: 1.25rem;
+        padding: 0.6rem 1rem;
+        font-size: 0.8rem;
+      }
+      .s50-fab__text {
+        display: none;
+      }
     }
   </style>
 
