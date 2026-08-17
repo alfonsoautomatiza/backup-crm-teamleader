@@ -1,18 +1,18 @@
 {
   "project": "backuptl",
   "channel": "stable",
-  "latest": "0.1.0",
+  "latest": "0.1.2",
   "key_id": "global-2026-01",
-  "generated_at": "2026-08-05T17:24:25.654111+00:00",
+  "generated_at": "2026-08-17T06:43:53.910652+00:00",
   "releases": [
     {
-      "version": "0.1.0",
+      "version": "0.1.2",
       "type": "full",
       "target": "win-x64",
-      "url": "https://github.com/wertyMSD/manual-backup-crm-teamleader/releases/download/v0.1.0/dist.zip",
-      "sha256": "fbd9796af33f156fa9881e6810f604f8cf64ba0076b72f6a1651b17f1a163b13",
-      "size": 79836151
+      "url": "https://github.com/alfonsoautomatiza/backup-crm-teamleader/releases/download/v0.1.2/backuptl-0.1.2-win-x64-stable.zip",
+      "sha256": "0ce4d8e53513e74fc44f42cf03d2c2e2cd999890a505aa969af9993fe1436c28",
+      "size": 31959593
     }
   ],
-  "signature": "N+jgpDWddZLGEL2rA+uxaivCwvqhuCaxF366kR5RKXOe9l24okZKb+brHVmN3dNfPte4OZ5Hpz5O3Q7De31WDQ=="
+  "signature": "fDJSx7A7MlWNjw98RMgNLrXAradNJyS3TtdPw2vPITfobSsq/QRjg/hWAunPmq5ALv3Cr3eO7lNNl1dpzZ/OAQ=="
 }

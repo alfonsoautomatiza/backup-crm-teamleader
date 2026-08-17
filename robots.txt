@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wertymsd.github.io/manual-backup-crm-teamleader/sitemap.xml
+Sitemap: https://alfonsoautomatiza.github.io/backup-crm-teamleader/sitemap.xml

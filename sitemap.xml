@@ -2,41 +2,206 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/</loc>
-         <lastmod>2026-08-11</lastmod>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/novedades/</loc>
+         <lastmod>2026-08-17</lastmod>
     </url>
     
     
     <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/api-teamleader/</loc>
-         <lastmod>2026-08-11</lastmod>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/castellano/api-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
     </url>
     
     
     <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/centralita-crm-ia-teamleader/</loc>
-         <lastmod>2026-08-11</lastmod>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/castellano/centralita-crm-ia-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
     </url>
     
     
     
     <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/link-descarga-software-centralita-teamleader/</loc>
-         <lastmod>2026-08-11</lastmod>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/castellano/link-descarga-software-centralita-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
     </url>
     
     <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/pantalla-configuracion-centralita-teamleader/</loc>
-         <lastmod>2026-08-11</lastmod>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/castellano/pantalla-configuracion-centralita-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
     </url>
     
     <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/solucion-problemas/</loc>
-         <lastmod>2026-08-11</lastmod>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/castellano/solucion-problemas/</loc>
+         <lastmod>2026-08-17</lastmod>
     </url>
     
     <url>
-         <loc>https://wertymsd.github.io/manual-backup-crm-teamleader/castellano/uso-consola/</loc>
-         <lastmod>2026-08-11</lastmod>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/castellano/uso-consola/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/de/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/de/novedades/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/de/castellano/api-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/de/castellano/centralita-crm-ia-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/de/castellano/link-descarga-software-centralita-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/de/castellano/pantalla-configuracion-centralita-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/de/castellano/solucion-problemas/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/de/castellano/uso-consola/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/en/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/en/novedades/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/en/castellano/api-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/en/castellano/centralita-crm-ia-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/en/castellano/link-descarga-software-centralita-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/en/castellano/pantalla-configuracion-centralita-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/en/castellano/solucion-problemas/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/en/castellano/uso-consola/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/fr/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/fr/novedades/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/fr/castellano/api-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/fr/castellano/centralita-crm-ia-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/fr/castellano/link-descarga-software-centralita-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/fr/castellano/pantalla-configuracion-centralita-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/fr/castellano/solucion-problemas/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/fr/castellano/uso-consola/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/nl/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/nl/novedades/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/nl/castellano/api-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/nl/castellano/centralita-crm-ia-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/nl/castellano/link-descarga-software-centralita-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/nl/castellano/pantalla-configuracion-centralita-teamleader/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/nl/castellano/solucion-problemas/</loc>
+         <lastmod>2026-08-17</lastmod>
+    </url>
+    
+    <url>
+         <loc>https://alfonsoautomatiza.github.io/backup-crm-teamleader/nl/nl/castellano/uso-consola/</loc>
+         <lastmod>2026-08-17</lastmod>
     </url>
 </urlset>
